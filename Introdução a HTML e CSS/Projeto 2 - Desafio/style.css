@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  
+    text-align: center;
+    margin: 0;
+  }
+
+  h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    line-height: 56px;
+    font-weight: 500;
+  
+    margin-bottom: 32px;
+    color: #3F3D56;
+  } 
+  
+  h1 span {
+    font-weight: bold;
+    color: #EE24FF;
+  }
+
+  p {
+    font-size: 15px;
+    color: #828282
+  }
+
+  p span{
+    font-weight: bold;
+    color: #3F3D56;
+  }
+
+  #footer {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  #footer a {
+    color: #3F3D56;
+    text-decoration: none;
+  }
+
+  #footer a + a{
+    margin-left: 28px;
+
+  }
+
+  #wave{
+    width: auto;
+  }
+
+  #hero {
+    margin: auto;
+    width: 350px;
+  }
